@@ -25,7 +25,7 @@
 
 </DefaultSettings>
 <Permissions>ReadWriteDocument</Permissions>
-<SupportUrl>https://example.com/support</SupportUrl>
+<SupportUrl>https://cdn.jsdelivr.net/gh/itayw35/AddIn@latest/support.html</SupportUrl>
 <IconUrl>https://cdn.jsdelivr.net/gh/itayw35/AddIn@latest/Assets/1200x630wa.png</IconUrl>
 <HighResolutionIconUrl>https://cdn.jsdelivr.net/gh/itayw35/AddIn@latest/Assets/80*80.png</HighResolutionIconUrl>
 
