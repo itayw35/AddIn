@@ -24,10 +24,10 @@
 
 
 </DefaultSettings>
-<!-- <SupportUrl DefaultValue="https://sparchive/_catalogs/masterpage/click/views/support.html"/> -->
-<IconUrl>https://cdn.jsdelivr.net/gh/OfficeDev/Office-Add-in-NodeJS-Excel-AddDataToWorksheet/assets/icon-32.png</IconUrl>
-<HighResolutionIconUrl>https://cdn.jsdelivr.net/gh/OfficeDev/Office-Add-in-NodeJS-Excel-AddDataToWorksheet/assets/icon-80.png</HighResolutionIconUrl>
 <Permissions>ReadWriteDocument</Permissions>
+<SupportUrl>https://example.com/support</SupportUrl>
+<IconUrl>https://cdn.jsdelivr.net/gh/itayw35/AddIn@latest/Assets/1200x630wa.png</IconUrl>
+<HighResolutionIconUrl>https://cdn.jsdelivr.net/gh/itayw35/AddIn@latest/Assets/80*80.png</HighResolutionIconUrl>
 
 </OfficeApp>
 
