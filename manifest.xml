@@ -1,0 +1,34 @@
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="TaskPaneApp">
+
+<Id>EC4B13A3-E37C-440E-9231-837AE825D486</Id>
+
+<Version>1.0.0.0</Version>
+
+<ProviderName>archives</ProviderName>
+
+<DefaultLocale>he-IL</DefaultLocale>
+
+<DisplayName DefaultValue="פרויקטים זמינים"/>
+
+<Description DefaultValue="מכיל פרויקטים מתוך אתרי קליק"/>
+
+<Hosts>
+
+<Host Name="Document"/>
+
+</Hosts>
+
+<DefaultSettings>
+
+<SourceLocation DefaultValue="index.html"/>
+
+
+</DefaultSettings>
+<!-- <SupportUrl DefaultValue="https://sparchive/_catalogs/masterpage/click/views/support.html"/> -->
+<IconUrl>https://cdn.jsdelivr.net/gh/OfficeDev/Office-Add-in-NodeJS-Excel-AddDataToWorksheet/assets/icon-32.png</IconUrl>
+<HighResolutionIconUrl>https://cdn.jsdelivr.net/gh/OfficeDev/Office-Add-in-NodeJS-Excel-AddDataToWorksheet/assets/icon-80.png</HighResolutionIconUrl>
+<Permissions>ReadWriteDocument</Permissions>
+
+</OfficeApp>
+
+ 
