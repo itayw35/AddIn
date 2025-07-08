@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="TaskPaneApp">
 
 <Id>EC4B13A3-E37C-440E-9231-837AE825D486</Id>
@@ -11,6 +12,9 @@
 <DisplayName DefaultValue="פרויקטים זמינים"/>
 
 <Description DefaultValue="מכיל פרויקטים מתוך אתרי קליק"/>
+<IconUrl DefaultValue="https://cdn.jsdelivr.net/gh/itayw35/AddIn@latest/Assets/icon-32.png"/>
+<HighResolutionIconUrl DefaultValue="https://cdn.jsdelivr.net/gh/itayw35/AddIn@latest/Assets/icon-80.png"/>
+<SupportUrl DefaultValue="https://cdn.jsdelivr.net/gh/itayw35/AddIn@latest/support.html"/>
 
 <Hosts>
 
@@ -19,16 +23,9 @@
 </Hosts>
 
 <DefaultSettings>
-
-<SourceLocation DefaultValue="index.html"/>
-
-
+<SourceLocation DefaultValue="https://cdn.jsdelivr.net/gh/itayw35/AddIn@latest/index.html"/>
 </DefaultSettings>
 <Permissions>ReadWriteDocument</Permissions>
-<SupportUrl>https://cdn.jsdelivr.net/gh/itayw35/AddIn@latest/support.html</SupportUrl>
-<IconUrl>https://cdn.jsdelivr.net/gh/itayw35/AddIn@latest/Assets/1200x630wa.png</IconUrl>
-<HighResolutionIconUrl>https://cdn.jsdelivr.net/gh/itayw35/AddIn@latest/Assets/80*80.png</HighResolutionIconUrl>
-
 </OfficeApp>
 
  
